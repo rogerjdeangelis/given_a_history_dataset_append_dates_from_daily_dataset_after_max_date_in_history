@@ -3,6 +3,8 @@ Given a history dataset append dates from daily dataset after max date in histor
     Given a history dataset append dates from daily dataset after max date in history
 
      Given a history dataset append dates from daily dataset after max date in history
+     
+     Same result in SAS/SAS Access and Base WPS, WPS does not require Accesss to PC files
 
     see
     https://stackoverflow.com/questions/51028403/sas-conditionally-execute-proc-sql
